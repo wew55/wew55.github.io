@@ -10,9 +10,6 @@ author_profile: false
     {% comment %}
     <h1 class="page__title">{{ page.title }}</h1>
     {% endcomment %}
-    {% include base_path %}
-    {% for post in page.posts %}
-      {% include archive-single.html %}
-    {% endfor %}
+    {{ content }}
   </div>
 </div>
