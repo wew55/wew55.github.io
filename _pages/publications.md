@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <a href="https://scholar.google.com/citations?user=3vTabW8AAAAJ&hl=en" style="color:#3793ae">Google Scholar</a>.
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=3vTabW8AAAAJ&hl=en).
 
 
 Conference Papers
