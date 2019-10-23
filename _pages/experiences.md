@@ -7,14 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
+* **Micron Technology, USA**
+  * Internship
+     - Memory behavior characterization and workload analysis for emerging applications. Demonstrated knowledge in computer architecture, memory system, big data analytics with Python and Spark.
+  * May 2019 - August 2019, Folsom, CA
+
 * **Comcast, USA**
   * Internship
      - Network data mining, analytics, and anomaly detection using machine learning.
-  * September 2018 - Present, Moorestown, NJ
+  * September 2018 - December 2018, Moorestown, NJ
   
 * **University of Pittsburgh, USA**
   * Graduate Student Researcher 
-     - Machine Learning applications and hardware accelerators, GPU architectures, memory and storage system.
+     - Computer architecture, memory and storage system, GPU architectures, workload analysis and characterization, machine learning applications and hardware accelerators.
   * August 2014 - Present, Pittsburgh, PA
 
 * **University of Pittsburgh, USA**

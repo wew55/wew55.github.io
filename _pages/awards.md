@@ -7,20 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-* **Participation in the ACM SIGDA PhD Forum at DAC**
-  * Design Automation Conference, 2018
+* **Participation in the Ph.D. Forum at the Design Automation Conference**
+  * ACM SIGDA/IEEE CEDA, 2018
 
-* **EGSO/ECE Travel Grant Award**
+* **ECE/EGSO Travel Grant Award**
   * University of Pittsburgh, 2018
   
 * **Travel Grant**
-  * Non-volatile Memory Workshop, 2018
+  * NVMW, 2018
 
 * **Finalist Paper for NVMW Memorable Paper Award**
-  * Non-volatile Memory Workshop, 2018
-   
-* **Best Paper Candidate**
-  * ICCAD, 2017
+  * NVMW, 2018
 
 * **Student Travel Grant**
   * ICCD, 2017
+
+* **Best Paper Candidate**
+  * ICCAD, 2017
+
+
