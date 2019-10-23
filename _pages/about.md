@@ -16,7 +16,6 @@ I have interned at [Micron Technology](https://www.micron.com/) in Summer 2019, 
 
 Research
 ------
-
 My main research interests include computer architecture, memory/storage system design for future computing systems with a focus on emerging memories, machine learning applications and hardware accelerators and GPU architectures, workload analysis with big data analytics techniques. My research work on resistive memory architecture was nominated as [Best Paper Candidate of ICCAD 2017](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf), and also selected as a [Finalist Paper for NVMW Memorable Paper Award (NVMW 2018)](http://nvmw.ucsd.edu/2018/program/). 
 
 News
@@ -57,8 +56,7 @@ Selected Publications
 
 Visitor Map
 ------
-
-<div style="text-align: left"><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script></div>
+<script type="text/javascript" align="left" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
 
 
 
