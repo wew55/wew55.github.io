@@ -179,9 +179,6 @@ collections:
   presentations:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -230,15 +227,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
