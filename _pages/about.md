@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. candidate in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer/), [University of Pittsburgh](https://www.pitt.edu/). My advisor is Prof. [Jun Yang](https://www.pitt.edu/~juy9/), and I am also co-advised by Prof. [Youtao Zhang](https://people.cs.pitt.edu/~zhangyt/) from Department of Computer Science. I received my Bachelor's and Master's Degrees from School of Electronic Science and Engineering, Southeast University, Nanjing, China in 2011 and 2014. My research work on resistive memory architecture was nominated as [Best Paper Candidate of ICCAD'2017](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf), and also selected as a Finalist Paper for NVMW Memorable Paper Award (NVMW2018). 
+I am now a Ph.D. candidate in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer/), [University of Pittsburgh](https://www.pitt.edu/). My advisor is Prof. [Jun Yang](https://www.pitt.edu/~juy9/), and I am also co-advised by Prof. [Youtao Zhang](https://people.cs.pitt.edu/~zhangyt/) from Department of Computer Science. I received my Bachelor's and Master's Degrees from School of Electronic Science and Engineering, Southeast University, Nanjing, China in 2011 and 2014. My main research interests include computer architectures, memory/storage system design for future computing systems with a focus on emerging memories, machine learning applications and hardware accelerators and GPU architectures, workload analysis with big data analytics techniques. 
+
+My research work on resistive memory architecture was nominated as [Best Paper Candidate of ICCAD'2017](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf), and also selected as a [Finalist Paper for NVMW Memorable Paper Award (NVMW2018)](http://nvmw.ucsd.edu/2018/program/). 
 
 I have interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55/).
 
-
-Research Interests
-------
-
-My current research interests include computer architecture and system design, GPU architecture, performance modeling and workload characterization, emerging memory technologies, and hardware support for machine learning algorithms acceleration and optimization. 
 
 News
 ------
@@ -37,7 +34,7 @@ News
 Visitor Map
 ------
      
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
+<a href="https://clustrmaps.com/site/1az2j" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4" /></a>
 
 
 

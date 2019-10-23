@@ -12,65 +12,29 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% include archive-single.html %}
 {% endfor %}
 
-2018
+
+Conference Papers
 ---
+### __Wen Wen__, Youtao Zhang, and Jun Yang, "ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators",  The 37th IEEE International Conference on Computer Design __(ICCD 2019)__, Abu Dhabi, UAE, November 2019.
 
-### Improving Performance and Endurance for Crossbar Resistive Memory by Exploiting In-memory Data Patterns
-  * __Wen Wen__
-  * The ACM SIGDA __PhD Forum at DAC__, San Francisco, CA, June 2018.
+### __Wen Wen__, Youtao Zhang, and Jun Yang, "Wear Leveling for Crossbar Resistive Memory", The 55th ACM/ESDA/IEEE Design Automation Conference __(DAC 2018)__, San Francisco, CA, June 2018.
 
-### Wear Leveling for Crossbar Resistive Memory
-  * __Wen Wen__, Youtao Zhang and Jun Yang
-  * The 55th ACM/IEEE Design Automation Conference __(DAC 2018)__, San Francisco, CA, June 2018.
-  
-### Read Error Resilient MLC STT-MRAM based Last Level Cache
-  * __Wen Wen__, Youtao Zhang and Jun Yang
-  * The 9th Annual Non-Volatile Memories Workshop __(NVMW 2018)__, San Diego, CA, March 2018. 
-  * Accepted as Poster.
-  
-### Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns
-  * __Wen Wen__, Lei Zhao, Youtao Zhang and Jun Yang
-  * The 9th Annual Non-Volatile Memories Workshop __(NVMW 2018)__, San Diego, CA, March 2018. 
-  * Accepted as Talk, and selected as a <span style="color:red">**Finalist paper for NVMW Memorable Paper Award**</span>.
+### __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns", The 36th IEEE/ACM International Conference on Computer-Aided Design __(ICCAD 2017)__, Irvine, CA, November 2017. (Best Paper Candidate)
 
-2017
+### __Wen Wen__, Youtao Zhang, and Jun Yang, "Read Error Resilient MLC STT-MRAM based Last Level Cache", The 35th IEEE International Conference on Computer Design __(ICCD 2017)__, Boston, MA, November 2017.
+
+### Zhi Qi, __Wen Wen__, Wei Meng, Ya Zhang, and Longxing Shi, "An Energy Efficient OpenCL Implementation of a Fingerprint Verification System on Heterogeneous Mobile Device", The 20th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications __(RTCSA 2014)__, Chongqing, China, August 2014.
+
+### __Wen Wen__, Zhi Qi, Zhi Li, Junhao Zhang, Yu Gong, and Peng Cao, "A Robust and Efficient Minutia-based Fingerprint Matching Algorithm", The 2nd IAPR Asian Conference on Pattern Recognition __(ACPR 2013)__, Okinawa, Japan, November 2013.
+
+### Wei Ge, __Wen Wen__, Zhi Qi, "A Novel Loop Adaptive Hardware Design for Coarse-Grained Reconfigurable Array", The 4th International Conference on Intelligent Control and Information Processing, pp. 518-522, Jun 9-11 2013.
+
+### Chen Ren, Lu Ma, Du Yue, __Wen Wen__, and Zhi Qi, "Hierarchy Modeling and Co-simulation of a Dynamically Coarse-Grained Reconfigurable Architecture", Informatics in Control, Automation and Robotics, pp. 589-598, 2012.
+
+Journal Papers
 ---
+### __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems __(TCAD)__, accepted.
 
-### Read Error Resilient MLC STT-MRAM based Last Level Cache
-  * __Wen Wen__, Youtao Zhang and Jun Yang
-  * IEEE International Conference on Computer Design __(ICCD 2017)__, Boston, MA, November 2017.
+### __Wen Wen__, Jun Yang, and Youtao Zhang, "Optimizing Power Efficiency for 3D Stacked GPU-In-Memory Architecture", Elsevier Microprocessors and Microsystems: Embedded Hardware Design __(MICPRO)__, Vol. 49: 44-53, 2017.
 
-### Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns
-  * __Wen Wen__, Lei Zhao, Youtao Zhang and Jun Yang
-  * IEEE/ACM International Conference on Computer-Aided Design __(ICCAD 2017)__, Irvine, CA, November 2017. 
-  * <span style="color:red">**Best Paper Candidate**</span>.
-
-### Optimizing Power Efficiency for 3D Stacked GPU-In-Memory Architecture
-  * __Wen Wen__, Jun Yang, and Youtao Zhang
-  * Elsevier Microprocessors and Microsystems: Embedded Hardware Design __(MICPRO)__, Vol. 49: 44-53, 2017.
-
-2014
----
-
-### An Energy Efficient OpenCL Implementation of a Fingerprint Verification System on Heterogeneous Mobile Device
-  * Zhi Qi, __Wen Wen__, Wei Meng, Ya Zhang, Longxing Shi
-  * The 20th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications __(RTCSA 2014)__, pp.1-8, Aug 20-22, 2014.
-
-### Mapping of Multiple Median Filtering Algorithms on Reconfigurable Architecture
-  * Wei Ge, Zhi Qi, __Wen Wen__, Peng Cao, Longxing Shi
-  * Journal of Southeast University (Natural Science Edition), 44.4, pp. 697-702, 2014. (In Chinese)
-
-Before 2014
----
-
-### A Robust and Efficient Minutiabased Fingerprint Matching Algorithm
-  * __Wen Wen__, Zhi Qi, Zhi Li, Junhao Zhang, Yu Gong, Peng Cao
-  * The 2nd IEEE/IAPR Asian Conference on Pattern Recognition __(ACPR 2013)__, pp. 201-205, Nov 5-8, 2013.
-
-### A Novel Loop Adaptive Hardware Design for Coarse-Grained Reconfigurable Array
-  * Wei Ge, __Wen Wen__, Zhi Qi
-  * The 4th International Conference on Intelligent Control and Information Processing, pp. 518-522, Jun 9-11 2013.
-
-### Hierarchy Modeling and Co-simulation of a Dynamically Coarse-Grained Reconfigurable Architecture
-  * Chen Ren, Lu Ma, Du Yue, __Wen Wen__, Zhi Qi
-  * Informatics in Control, Automation and Robotics, pp. 589-598, 2012.
+### Wei Ge, Zhi Qi, __Wen Wen__, Peng Cao, and Longxing Shi. "Mapping of Multiple Median Filtering Algorithms on Reconfigurable Architecture", Journal of Southeast University (Natural Science Edition), 44.4, pp. 697-702, 2014. (In Chinese)
