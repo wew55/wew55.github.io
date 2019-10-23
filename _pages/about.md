@@ -58,7 +58,7 @@ Selected Publications
 Visitor Map
 ------
 
-<left><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script></left>
+<div style="text-align: left"><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script></div>
 
 
 
