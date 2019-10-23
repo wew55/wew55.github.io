@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 * **Skills**
-    * Programming: C/C++, Python, Shell Scripting, Apache Spark, SQL, Matlab
-    * Hardware Simulation: Cadence Software (e.g., Virtuoso, Spectre), HSPICE, Xilinx Vivado HLS
-    * Architecture Artifacts: GPGPU-Sim, CACTI, McPAT, Intel Pin
+    * __Programming__: C/C++, Python, Shell Scripting, Apache Spark, SQL, Matlab
+    * __Hardware Simulation__: Cadence Software (e.g., Virtuoso, Spectre), HSPICE, Xilinx Vivado HLS
+    * __Architecture Artifacts__: GPGPU-Sim, CACTI, McPAT, Intel Pin
 
 * **Professional Services**
     * __Expert Reviewer__: Design Automation Conference (__DAC__) 2019
@@ -22,8 +22,8 @@ author_profile: true
     * ECE 2195: Special Topics: Computers - Machine Learning and Neural Networks, Fall 2016
     * ECE 3162: Advanced Computer Microarchitecture, Spring 2016
     * CS 3220: Compiling Techniques/Parallel Systems, Spring 2016
-    * CS 15-619: Cloud Computing (From CMU), Fall 2015
-    * CS 3410: Advanced Topics in Computer Architecture, Spring 2015
+    * CS 15-619: [Cloud Computing (From CMU)](http://www.cs.cmu.edu/~msakr/15619-f15/), Fall 2015
+    * CS 3410: [Advanced Topics in Computer Architecture](http://people.cs.pitt.edu/~childers/CS3410/), Spring 2015
     * CS 2210: Compiler Design, Spring 2015
     * ECE 2162: Computer Architecture, Fall 2014 ([Coursework](https://github.com/wew55/Tomasulo))
     * ECE 2192: Introduction to VLSI Design, Fall 2014
