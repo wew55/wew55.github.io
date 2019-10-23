@@ -7,26 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-* **Skills**
-    * __Programming__: C/C++, Python, Shell Scripting, Apache Spark, SQL, Matlab
-    * __Hardware Simulation__: Cadence Software (e.g., Virtuoso, Spectre), HSPICE, Xilinx Vivado HLS
-    * __Architecture Artifacts__: GPGPU-Sim, CACTI, McPAT, Intel Pin
+Skills
+------
+* __Programming__: C/C++, Python, Shell Scripting, Apache Spark, SQL, Matlab
+* __Hardware Simulation__: Cadence Software (e.g., Virtuoso, Spectre), HSPICE, Xilinx Vivado HLS
+* __Architecture Artifacts__: GPGPU-Sim, CACTI, McPAT, Intel Pin
 
-* **Professional Services**
-    * __Expert Reviewer__: Design Automation Conference (__DAC__) 2019
-    * __Journal Reviewer__: IEEE Transactions on Computers (__TC__)
+Courses
+------
+* ECE 2295: Special Topics on Emerging Memory, Fall 2017
+* ECE 2140: Systems-On-A-Chip Design, Spring 2017 ([Coursework](https://github.com/wew55/ece2140))
+* ECE 2195: Special Topics: Computers - Machine Learning and Neural Networks, Fall 2016
+* ECE 3162: Advanced Computer Microarchitecture, Spring 2016
+* CS 3220: Compiling Techniques/Parallel Systems, Spring 2016
+* CS 15-619: [Cloud Computing (From CMU)](http://www.cs.cmu.edu/~msakr/15619-f15/), Fall 2015
+* CS 3410: [Advanced Topics in Computer Architecture](http://people.cs.pitt.edu/~childers/CS3410/), Spring 2015
+* CS 2210: Compiler Design, Spring 2015
+* ECE 2162: Computer Architecture, Fall 2014 ([Coursework](https://github.com/wew55/Tomasulo))
+* ECE 2192: Introduction to VLSI Design, Fall 2014
 
-* **Courses**
-    * ECE 2295: Special Topics on Emerging Memory, Fall 2017
-    * ECE 2140: Systems-On-A-Chip Design, Spring 2017 ([Coursework](https://github.com/wew55/ece2140))
-    * ECE 2195: Special Topics: Computers - Machine Learning and Neural Networks, Fall 2016
-    * ECE 3162: Advanced Computer Microarchitecture, Spring 2016
-    * CS 3220: Compiling Techniques/Parallel Systems, Spring 2016
-    * CS 15-619: [Cloud Computing (From CMU)](http://www.cs.cmu.edu/~msakr/15619-f15/), Fall 2015
-    * CS 3410: [Advanced Topics in Computer Architecture](http://people.cs.pitt.edu/~childers/CS3410/), Spring 2015
-    * CS 2210: Compiler Design, Spring 2015
-    * ECE 2162: Computer Architecture, Fall 2014 ([Coursework](https://github.com/wew55/Tomasulo))
-    * ECE 2192: Introduction to VLSI Design, Fall 2014
+Professional Services
+------
+* __Expert Reviewer__: Design Automation Conference (__DAC__) 2019
+* __Journal Reviewer__: IEEE Transactions on Computers (__TC__)
    
-* **Computer Architecture Conferences List**
-    * [A list of upcoming architecture conferences](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=ics%20hpdc%20spaa%20podc%20asap%20pact%20icpp%20cases%20islped%20sc%20iccad%20codes%20iccd%20micro%20asplos%20hpca%20date%20isca%20dac%20icdcs%20cgo%20hipeac%20ipdps%20aspdac&graphicView=1&sortMode=1).
+Computer Architecture Conferences List
+------
+* [A list of upcoming architecture conferences](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=ics%20hpdc%20spaa%20podc%20asap%20pact%20icpp%20cases%20islped%20sc%20iccad%20codes%20iccd%20micro%20asplos%20hpca%20date%20isca%20dac%20icdcs%20cgo%20hipeac%20ipdps%20aspdac&graphicView=1&sortMode=1).
