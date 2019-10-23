@@ -55,6 +55,9 @@ Selected Publications
 
 * [ACPR 2013] __Wen Wen__, Zhi Qi, Zhi Li, Junhao Zhang, Yu Gong, and Peng Cao, "A Robust and Efficient Minutia-based Fingerprint Matching Algorithm", *The 2nd IAPR Asian Conference on Pattern Recognition* (__ACPR 2013__), Okinawa, Japan, November 2013.
 
+Visitor Map
+------
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=157&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
 
 
 
