@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=3vTabW8AAAAJ&hl=en" style="color:#3793ae">Google Scholar</a></u>.
+You can also find my articles on my <a href="https://scholar.google.com/citations?user=3vTabW8AAAAJ&hl=en" style="color:#3793ae">Google Scholar</a>.
 
 {% include base_path %}
 {% for post in site.publications reversed %}
@@ -26,7 +26,7 @@ Conference Papers
 
 ### [Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns](https://ieeexplore.ieee.org/abstract/document/8203787)
 * __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang
-* *The 36th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2017__), Irvine, CA, November 2017. (<span style="color:red">Best Paper Candidate</span>)
+* *The 36th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2017__), Irvine, CA, November 2017. (<span style="color:red">Best Paper Candidate.</span>)
 
 ### [Read Error Resilient MLC STT-MRAM based Last Level Cache](https://ieeexplore.ieee.org/document/8119253)
 * __Wen Wen__, Youtao Zhang, and Jun Yang

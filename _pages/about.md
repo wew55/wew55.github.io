@@ -29,7 +29,7 @@ News
 * August 2017: Our paper "Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns" was nominated as Best Paper Candidate of ICCAD 2017.
 * June 2017: Our paper "Speeding Up Crsossbar Resistive Memory by Exploiting In-memory Data Patterns" was accepted by ICCAD 2017.
 
-Selected Papers
+Selected Publications
 ------
 [Also view my [full publication list](https://wew55.github.io/publications/).]
 
