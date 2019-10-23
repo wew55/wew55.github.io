@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -37,6 +37,7 @@ News
 Visitor Map
 ------
      
-<a href="https://clustrmaps.com/site/1az2j" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4&co=2d78ad&ct=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
+
 
 
