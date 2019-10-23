@@ -1,4 +1,5 @@
 ---
+layout: archive_home
 permalink: /
 title: "Homepage"
 excerpt: "About me"
