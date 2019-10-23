@@ -9,8 +9,8 @@ main:
   - title: "Workshop/Poster Presentations"
     url: /presentations/    
     
-  - title: "Honors and Awards"
-    url: /awards/
+  # - title: "Honors and Awards"
+    # url: /awards/
         
   # - title: "Courses"
   # url: /course/
