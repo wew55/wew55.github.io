@@ -14,7 +14,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 
 
 Conference Papers
----
+-----
 
 ### ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators
 * __Wen Wen__, Youtao Zhang, and Jun Yang
@@ -49,7 +49,7 @@ Conference Papers
 * *Informatics in Control, Automation and Robotics*, pp. 589-598, 2012.
 
 Journal Papers
----
+-----
 ### [Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory](https://ieeexplore.ieee.org/document/8832251)
 * __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang
 * *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* __(TCAD)__, accepted.
