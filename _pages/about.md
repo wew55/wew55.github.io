@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -55,6 +56,5 @@ Selected Publications
 
 Visitor Map
 ------
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=n&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
-
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
 
