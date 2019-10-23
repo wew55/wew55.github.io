@@ -13,5 +13,5 @@ author_profile: true
 	* *The 9th Annual Non-Volatile Memories Workshop* (__NVMW 2018__), 2018. (<span style="color:red">Finalist Paper for NVMW 2018 Memorable Paper Award.</span>)
 
 * __Read Error Resilient MLC STT-MRAM based Last Level Cache__
-	* Wen Wen, Youtao Zhang, and Jun Yang
+	* __Wen Wen__, Youtao Zhang, and Jun Yang
 	* *The 9th Annual Non-Volatile Memories Workshop* (__NVMW 2018__), 2018. (Poster)

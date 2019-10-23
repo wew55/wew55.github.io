@@ -9,7 +9,8 @@ author_profile: true
 
 * **Micron Technology, USA**
   * Internship
-     - Memory behavior characterization and workload analysis for emerging applications. Demonstrated knowledge in computer architecture, memory system, big data analytics with Python and Spark.
+     - Memory behavior characterization and workload analysis for emerging applications. 
+     - Demonstrated knowledge in computer architecture, memory system, big data analytics with Python and Spark.
   * May 2019 - August 2019, Folsom, CA
 
 * **Comcast, USA**
