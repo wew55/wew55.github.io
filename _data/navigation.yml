@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Experiences"
+    url: /experiences/   
+
   - title: "Workshop/Poster Presentations"
     url: /presentations/    
-
-  - title: "Experiences"
-    url: /experiences/    
     
   - title: "Honors and Awards"
     url: /awards/
