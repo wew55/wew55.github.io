@@ -37,6 +37,6 @@ News
 Visitor Map
 ------
      
-<a href='https://clustrmaps.com/site/1az2j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4'/></a>
+<a href='https://clustrmaps.com/site/1az2j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4'/></a>
 
 
