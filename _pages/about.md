@@ -9,18 +9,18 @@ redirect_from:
   - /about.html
 ---
 
-About
-------
+# About
+
 I am now a Ph.D. candidate in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer/), [University of Pittsburgh](https://www.pitt.edu/). My advisor is Prof. [Jun Yang](https://www.pitt.edu/~juy9/), and I am also co-advised by Prof. [Youtao Zhang](https://people.cs.pitt.edu/~zhangyt/) from Department of Computer Science. I received my Bachelor's and Master's Degrees from School of Electronic Science and Engineering, Southeast University, Nanjing, China in 2011 and 2014. 
 
 I have interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55/).
 
-Research
-------
+# Research
+
 My main research interests include computer architecture, memory/storage system design for future computing systems with a focus on emerging memories, machine learning applications and hardware accelerators and GPU architectures, workload analysis with big data analytics techniques. My research work on resistive memory architecture was nominated as [Best Paper Candidate of ICCAD 2017](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf), and also selected as a [Finalist Paper for NVMW Memorable Paper Award (NVMW 2018)](http://nvmw.ucsd.edu/2018/program/). 
 
-News
-------
+# News
+
 * September 2019: Our paper "ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators" was accepted by ICCD 2019.
 * August 2019: Our paper "Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory" was accepted by TCAD.
 * April 2018: My work on "Improving Performance and Endurance for Crossbar Resistive Memory by Exploiting In-memory Data Patterns" was accepted to the ACM SIGDA PhD Forum at DAC 2018.
@@ -33,8 +33,8 @@ News
 * August 2017: Our paper "Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns" was nominated as Best Paper Candidate of ICCAD 2017.
 * June 2017: Our paper "Speeding Up Crsossbar Resistive Memory by Exploiting In-memory Data Patterns" was accepted by ICCAD 2017.
 
-Selected Publications
-------
+# Selected Publications
+
 [Also view my [full publication list](https://wew55.github.io/publications/).]
 
 * [ICCD 2019] __Wen Wen__, Youtao Zhang, and Jun Yang, "ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators", *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
@@ -55,7 +55,7 @@ Selected Publications
 
 * [ACPR 2013] __Wen Wen__, Zhi Qi, Zhi Li, Junhao Zhang, Yu Gong, and Peng Cao, "A Robust and Efficient Minutia-based Fingerprint Matching Algorithm", *The 2nd IAPR Asian Conference on Pattern Recognition* (__ACPR 2013__), Okinawa, Japan, November 2013.
 
-Visitor Map
-------
+# Visitor Map
+
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
 

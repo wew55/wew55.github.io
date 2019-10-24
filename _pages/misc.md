@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+# Miscellaneous
+
 Honors and Awards
 ------
 * Participation in the Ph.D. Forum at the Design Automation Conference, ACM SIGDA/IEEE CEDA, 2018
