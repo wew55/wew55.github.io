@@ -44,8 +44,8 @@ My main research interests include computer architecture, memory/storage system 
 * [DAC 2018] __Wen Wen__, Youtao Zhang, and Jun Yang, "Wear Leveling for Crossbar Resistive Memory", *The 55th ACM/ESDA/IEEE Design Automation Conference* (__DAC 2018__), San Francisco, CA, June 2018.
 
 * [ICCAD 2017] __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Speeding Up Crossbar Resistive Memory by Exploiting In-memory Data Patterns", *The 36th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2017__), Irvine, CA, November 2017.
-	- <span style="color:red">[ICCAD 2017 Best Paper Candidate](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf)</span>
-	- <span style="color:red">[Presented at NVMW 2018 and Selected as a Finalist Paper for NVMW Memorable Paper Award](http://nvmw.ucsd.edu/2018/program/)</span>, [Talk at NVMW 2018](http://nvmw.ucsd.edu/nvmw2018-program/unzip/current/nvmw2018-paper46-presentations-slides.pdf)
+	- [ICCAD 2017 Best Paper Candidate](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf)
+	- [Presented at NVMW 2018 and Selected as a Finalist Paper for NVMW Memorable Paper Award](http://nvmw.ucsd.edu/2018/program/)
 
 * [ICCD 2017] __Wen Wen__, Youtao Zhang, and Jun Yang, "Read Error Resilient MLC STT-MRAM based Last Level Cache", *The 35th IEEE International Conference on Computer Design* (__ICCD 2017__), Boston, MA, November 2017.
 
