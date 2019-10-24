@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive_home
 title: "Misc."
 permalink: /misc/
 author_profile: true
