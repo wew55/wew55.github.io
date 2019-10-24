@@ -24,7 +24,7 @@ Skills
 * __Hardware Simulation__: Cadence Software (e.g., Virtuoso, Spectre), HSPICE, Xilinx Vivado HLS
 * __Architecture Artifacts__: GPGPU-Sim, CACTI, McPAT, Intel Pin
 
-Courses
+Relevant Graduate Courses
 ------
 * ECE 2295: Special Topics on Emerging Memory, Fall 2017
 * ECE 2140: Systems-On-A-Chip Design, Spring 2017 ([Coursework](https://github.com/wew55/ece2140))
