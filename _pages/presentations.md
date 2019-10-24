@@ -6,6 +6,7 @@ author_profile: true
 ---
 # Workshop/Poster Presentations
 
+
 ### Improving Performance and Endurance for Crossbar Resistive Memory by Exploiting In-memory Data Patterns
 * __Wen Wen__
 * *ACM SIGDA and IEEE CEDA PhD Forum at DAC 2018*, 2018.
