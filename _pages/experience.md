@@ -1,15 +1,15 @@
 ---
 layout: archive_home
-title: "Experiences"
-permalink: /experiences/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Experiences
+# Experience
 
-Work Experiences
+Work Experience
 ------
 __Micron Technology__, Folsom, CA, USA
 * Intern - Emerging Memory Media Optimization

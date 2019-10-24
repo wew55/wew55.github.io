@@ -173,7 +173,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  experiences:
+  experience:
     output: true
     permalink: /:collection/:path/
   presentations:
@@ -213,7 +213,7 @@ defaults:
   # _experiences
   - scope:
       path: ""
-      type: experiences
+      type: experience
     values:
       layout: single
       author_profile: true
