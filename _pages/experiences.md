@@ -1,10 +1,13 @@
 ---
+layout: archive_home
 title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
 
 {% include base_path %}
+
+# Experiences
 
 Work Experiences
 ------

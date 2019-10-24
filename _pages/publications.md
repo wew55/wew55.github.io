@@ -1,11 +1,11 @@
 ---
+layout: archive_home
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+# Publications
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=3vTabW8AAAAJ&hl=en).
-
 
 Conference Papers
 ------

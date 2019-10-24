@@ -4,7 +4,6 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-
 # Workshop/Poster Presentations
 
 ### Improving Performance and Endurance for Crossbar Resistive Memory by Exploiting In-memory Data Patterns

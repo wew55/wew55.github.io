@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 # About
 
 I am now a Ph.D. candidate in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer/), [University of Pittsburgh](https://www.pitt.edu/). My advisor is Prof. [Jun Yang](https://www.pitt.edu/~juy9/), and I am also co-advised by Prof. [Youtao Zhang](https://people.cs.pitt.edu/~zhangyt/) from Department of Computer Science. I received my Bachelor's and Master's Degrees from the School of Electronic Science and Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China in 2011 and 2014. 
