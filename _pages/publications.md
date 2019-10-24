@@ -9,7 +9,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Conference Papers
 ------
-
 ### ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators
 * __Wen Wen__, Youtao Zhang, and Jun Yang
 * *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
