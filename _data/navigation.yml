@@ -6,7 +6,8 @@ main:
   - title: "Experiences"
     url: /experiences/   
 
-  - title: "Workshop/Poster Presentations"
+  #- title: "Workshop/Poster Presentations"
+  - title: "Presentations"
     url: /presentations/    
     
   # - title: "Honors and Awards"
