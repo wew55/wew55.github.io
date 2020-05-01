@@ -40,7 +40,10 @@ Relevant Graduate Courses
 Professional Services
 ------
 * __Expert Reviewer__: Design Automation Conference (__DAC__) 2019, 2020
-* __Journal Reviewer__: IEEE Transactions on Computers (__TC__), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (__TCAD__), ACM Transactions on Embedded Computing Systems (__TECS__)
+* __Journal Reviewer__: 
+ *IEEE Transactions on Computers (__TC__)
+ *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (__TCAD__)
+ *ACM Transactions on Embedded Computing Systems (__TECS__)
    
 Computer Architecture Conferences List
 ------

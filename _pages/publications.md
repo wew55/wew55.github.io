@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Conference Papers
 ------
-### ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators
+### [ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators](https://ieeexplore.ieee.org/abstract/document/8988597)
 * __Wen Wen__, Youtao Zhang, and Jun Yang
 * *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
 
@@ -54,3 +54,5 @@ Journal Papers
 ### Mapping of Multiple Median Filtering Algorithms on Reconfigurable Architecture
 * Wei Ge, Zhi Qi, __Wen Wen__, Peng Cao, and Longxing Shi
 * *Journal of Southeast University (Natural Science Edition)*, 44.4, pp. 697-702, 2014. (In Chinese)
+
+
