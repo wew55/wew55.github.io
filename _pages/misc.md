@@ -45,6 +45,7 @@ Professional Services
    * IEEE Transactions on Computers (__TC__)
    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (__TCAD__)
    * ACM Transactions on Embedded Computing Systems (__TECS__)
+   
 Computer Architecture Conferences List
 ------
 * [A list of upcoming architecture conferences](http://confsearch.ethz.ch/confsearch/faces/pages/staticresults.jsp?query=ics%20hpdc%20spaa%20podc%20asap%20pact%20icpp%20cases%20islped%20sc%20iccad%20codes%20iccd%20micro%20asplos%20hpca%20date%20isca%20dac%20icdcs%20cgo%20hipeac%20ipdps%20aspdac&graphicView=1&sortMode=1).
