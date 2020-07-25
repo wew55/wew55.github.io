@@ -11,7 +11,7 @@ redirect_from:
 # About
 
 I am currently working as a Lead Software Engineer at [Cadence Design Systems](https://www.cadence.com/en_US/home.html).
-I completed my Ph.D. study in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer), [University of Pittsburgh](https://www.pitt.edu), and received my Bachelor's and Master's Degrees from [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China. I have interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55).
+I completed my Ph.D. study in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer), [University of Pittsburgh](https://www.pitt.edu), and received my Bachelor's and Master's Degrees from [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China. I interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55).
 
 # Research
 
