@@ -1,16 +1,14 @@
 ---
 layout: archive_home
-title: "Experience"
+title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Experience
-
-Work Experience
-------
+# Work Experience   
+-----
 __Cadence Design Systems, Inc.__, San Jose, CA
 * Lead Software Engineer
 

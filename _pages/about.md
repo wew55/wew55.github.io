@@ -48,6 +48,10 @@ My PhD research topics included computer architecture, memory/storage system des
 	- [ICCAD 2017 Best Paper Candidate](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf)
 	- [Presented at NVMW 2018 and Selected as a Finalist Paper for NVMW Memorable Paper Award](http://nvmw.ucsd.edu/2018/program)
 
+* [ICCD 2017] __Wen Wen__, Youtao Zhang, and Jun Yang, "Read Error Resilient MLC STT-MRAM based Last Level Cache", *The 35th IEEE International Conference on Computer Design* (__ICCD 2017__), Boston, MA, November 2017.
+
+* [MICPRO] __Wen Wen__, Jun Yang, and Youtao Zhang, "Optimizing Power Efficiency for 3D Stacked GPU-In-Memory Architecture", *Elsevier Microprocessors and Microsystems: Embedded Hardware Design* (__MICPRO__), Vol. 49: 44-53, 2017.
+
 # Visitor Map
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=B7KpfeZ-E_TlhfBboWHdndQNpS8ah6ILoashd6ldpD4"></script>
