@@ -18,12 +18,6 @@ Honors and Awards
 * Student Travel Grant, ICCD, 2017
 * Best Paper Candidate, ICCAD, 2017
 
-Skills
-------
-* __Programming__: C/C++, Python, Shell Scripting, Apache Spark, SQL, Matlab
-* __Hardware Simulation__: Cadence Software (e.g., Virtuoso, Spectre), HSPICE, Xilinx Vivado HLS
-* __Architecture Artifacts__: GPGPU-Sim, CACTI, McPAT, Intel Pin
-
 Relevant Graduate Courses
 ------
 * ECE 2295: Special Topics on Emerging Memory, Fall 2017

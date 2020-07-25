@@ -9,6 +9,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Conference Papers
 ------
+### Accelerating 3D Vertical Resistive Memories with Opportunistic Write Latency Reduction
+* __Wen Wen__, Youtao Zhang, and Jun Yang
+* *The 39th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2019__), November 2020.
+
 ### [ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators](https://ieeexplore.ieee.org/abstract/document/8988597)
 * __Wen Wen__, Youtao Zhang, and Jun Yang
 * *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
