@@ -36,7 +36,7 @@ My PhD research topics included computer architecture, memory/storage system des
 
 [Also view my [full publication list](https://wew55.github.io/publications).]
 
-* [ICCAD 2020] __Wen Wen__, Youtao Zhang, and Jun Yang, "Accelerating 3D Vertical Resistive Memories with Opportunistic Write Latency Reduction", *The 39th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2020__), November 2020.
+* [ICCAD 2020] __Wen Wen__, Youtao Zhang, and Jun Yang, "Accelerating 3D Vertical Resistive Memories with Opportunistic Write Latency Reduction", *The 39th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2020__), Virtual Event, USA, November 2020.
 
 * [ICCD 2019] __Wen Wen__, Youtao Zhang, and Jun Yang, "ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators", *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
 
