@@ -10,8 +10,8 @@ redirect_from:
 ---
 # About
 
-I am currently working as a Lead Software Engineer at [Cadence Design Systems](https://www.cadence.com/en_US/home.html).
-I completed my Ph.D. study in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer), [University of Pittsburgh](https://www.pitt.edu), and received my Bachelor's and Master's Degrees from [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China. I interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55).
+I am now working as a Lead Software Engineer at [Cadence Design Systems](https://www.cadence.com/en_US/home.html).
+I received my PhD degree in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer) from [University of Pittsburgh](https://www.pitt.edu) in 2020, and my Bachelor's and Master's Degrees from [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China. I interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55).
 
 # Research
 
@@ -40,7 +40,7 @@ My PhD research topics included computer architecture, memory/storage system des
 
 * [ICCD 2019] __Wen Wen__, Youtao Zhang, and Jun Yang, "ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators", *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
 
-* [TCAD] __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (__TCAD__), accepted.
+* [TCAD] __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (__TCAD__), Vol. 39(10):2347 - 2360, 2020.
 
 * [DAC 2018] __Wen Wen__, Youtao Zhang, and Jun Yang, "Wear Leveling for Crossbar Resistive Memory", *The 55th ACM/ESDA/IEEE Design Automation Conference* (__DAC 2018__), San Francisco, CA, June 2018.
 

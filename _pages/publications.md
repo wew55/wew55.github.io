@@ -49,7 +49,7 @@ Journal Papers
 ------
 ### [Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory](https://ieeexplore.ieee.org/document/8832251)
 * __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang
-* *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (__TCAD__), accepted.
+* *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (__TCAD__), Vol. 39(10):2347 - 2360, 2020.
 
 ### [Optimizing Power Efficiency for 3D Stacked GPU-In-Memory Architecture](https://www.sciencedirect.com/science/article/abs/pii/S0141933117300509)
 * __Wen Wen__, Jun Yang, and Youtao Zhang
