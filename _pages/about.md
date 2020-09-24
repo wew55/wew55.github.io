@@ -40,7 +40,7 @@ My PhD research topics included computer architecture, memory/storage system des
 
 * [ICCD 2019] __Wen Wen__, Youtao Zhang, and Jun Yang, "ReNEW: Enhancing Lifetime for ReRAM Crossbar based Neural Network Accelerators", *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
 
-* [TCAD] __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (__TCAD__), Vol. 39(10):2347 - 2360, 2020.
+* [TCAD] __Wen Wen__, Lei Zhao, Youtao Zhang, and Jun Yang, "Exploiting In-memory Data Patterns for Performance Improvement on Crossbar Resistive Memory", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (__TCAD__), Vol. 39 (10):2347 - 2360, 2020.
 
 * [DAC 2018] __Wen Wen__, Youtao Zhang, and Jun Yang, "Wear Leveling for Crossbar Resistive Memory", *The 55th ACM/ESDA/IEEE Design Automation Conference* (__DAC 2018__), San Francisco, CA, June 2018.
 
