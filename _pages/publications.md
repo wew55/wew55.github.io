@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Conference Papers
 ------
-### Accelerating 3D Vertical Resistive Memories with Opportunistic Write Latency Reduction
+### [Accelerating 3D Vertical Resistive Memories with Opportunistic Write Latency Reduction](https://dl.acm.org/doi/10.1145/3400302.3415677)
 * __Wen Wen__, Youtao Zhang, and Jun Yang
 * *The 39th IEEE/ACM International Conference on Computer-Aided Design* (__ICCAD 2020__), Virtual Event, USA, November 2020.
 
@@ -17,7 +17,7 @@ Conference Papers
 * __Wen Wen__, Youtao Zhang, and Jun Yang
 * *The 37th IEEE International Conference on Computer Design* (__ICCD 2019__), Abu Dhabi, UAE, November 2019.
 
-### [Wear Leveling for Crossbar Resistive Memory](https://dl.acm.org/citation.cfm?id=3196138)
+### [Wear Leveling for Crossbar Resistive Memory](https://dl.acm.org/doi/10.1145/3195970.3196138)
 * __Wen Wen__, Youtao Zhang, and Jun Yang
 * *The 55th ACM/ESDA/IEEE Design Automation Conference* (__DAC 2018__), San Francisco, CA, June 2018.
 
