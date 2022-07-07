@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 __Cadence Design Systems, Inc.__, San Jose, CA
-* Principal Software Engineer
-* July 2022 - Present
+* Principal Software Engineer 
+  - July 2022 - Present
 * Lead Software Engineer
-* July 2020 - July 2022
+  - July 2020 - July 2022
 
 __Micron Technology__, Folsom, CA
 * Intern - Emerging Memory Media Optimization
