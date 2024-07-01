@@ -38,7 +38,7 @@ Professional Services
 * __Journal Reviewer__: 
    * IEEE Transactions on Computers (__TC__)
    * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (__TCAD__)
-   * ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
+   * ACM Transactions on Design Automation of Electronic Systems (__TODAES__)
    * ACM Transactions on Embedded Computing Systems (__TECS__)
    * Journal of Systems Architecture (__JSA__)
    
