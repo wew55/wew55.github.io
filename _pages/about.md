@@ -15,7 +15,7 @@ I received my PhD degree in [Department of Electrical & Computer Engineering](ht
 
 # Research
 
-At Cadence Design Systems, I am a researcher and software engineer on sophisticated algorithm development for extreme large-scale data set, in depth expertise in graph partitioning and optimization for backend compiler. 
+At Cadence Design Systems, I am a researcher and software engineer on sophisticated algorithm development for extreme large-scale data set, in depth expertise in graph partitioning and optimization for backend compilers. 
 
 My PhD research topics included computer architecture, memory/storage system design for future computing systems with a focus on emerging memories, machine learning applications and hardware accelerators and GPU architectures, workload analysis with big data analytics techniques. My research work on resistive memory architecture was nominated as [Best Paper Candidate of ICCAD 2017](https://iccad.com/sites/iccad.com/files/2017%20ICCAD%20Awards%20Page.pdf), and also selected as a [Finalist Paper for NVMW Memorable Paper Award (NVMW 2018)](http://nvmw.ucsd.edu/2018/program). 
 
