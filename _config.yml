@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wen Wen"
 title_separator          : "-"
 name                     : &name "Wen Wen"
-description              : &description "Lead Software Engineer"
+description              : &description "Sr Principal Software Engineer"
 url                      : https://wew55.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wew55/wew55.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Wen Wen 温闻"
   avatar           : "wen_avatar.jpg"
-  bio              : "Principal Software Engineer at Cadence Design Systems, Inc. PhD in ECE, University of Pittsburgh"
+  bio              : "Sr Principal Software Engineer at Cadence Design Systems, Inc. PhD in ECE, University of Pittsburgh"
   location         : "San Francisco Bay Area, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=3vTabW8AAAAJ&hl=en"

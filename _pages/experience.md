@@ -8,8 +8,12 @@ author_profile: true
 {% include base_path %}
 
 __Cadence Design Systems, Inc.__, San Jose, CA
+
+* Sr Principal Software Engineer 
+  - July 2024 - Present
+
 * Principal Software Engineer 
-  - July 2022 - Present
+  - July 2022 - June 2024
 * Lead Software Engineer
   - July 2020 - July 2022
 
@@ -23,5 +27,4 @@ __Comcast__, Moorestown, NJ
 * Security Researcher Intern
   - Network data mining, analytics, and anomaly detection using machine learning.
 * September 2018 - December 2018
-
 
