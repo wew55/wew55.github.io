@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
+__Ambarella, Inc.__, Santa Clara, CA
 
+* Staff Architecture Engineer 
+  - October 2025 - Present
+  
 __Cadence Design Systems, Inc.__, San Jose, CA
 
 * Sr Principal Software Engineer 
-  - July 2024 - Present
-
+  - July 2024 - October 2025
 * Principal Software Engineer 
   - July 2022 - June 2024
 * Lead Software Engineer
