@@ -10,7 +10,7 @@ redirect_from:
 ---
 # About
 
-I’m a Staff Architecture Engineer at [Ambarella Inc.](https://www.ambarella.com/), helping to design next‑generation AI chips by bridging algorithms and silicon. My focus spans hardware/software co‑design, system-level performance modeling, and software tooling.  
+I’m a Staff Architecture Engineer at [Ambarella Inc.](https://www.ambarella.com/), building next‑generation AI chips by bridging algorithms and silicon. My focus spans hardware/software co‑design, system-level performance modeling, and software tooling.  
 
 Previously, at [Cadence Design Systems](https://www.cadence.com/en_US/home.html), I led development of large-scale graph partitioning techniques and built distributed compiler infrastructure. I received my PhD degree in [Department of Electrical & Computer Engineering](https://www.engineering.pitt.edu/Departments/Electrical-Computer) from [University of Pittsburgh](https://www.pitt.edu) in 2020, and my Bachelor's and Master's Degrees from [Southeast University](https://www.seu.edu.cn/english/main.htm), Nanjing, China. I interned at [Micron Technology](https://www.micron.com/) in Summer 2019, and [Comcast](https://corporate.comcast.com/) in Fall 2018. More information can be found on my [LinkedIn Profile](https://www.linkedin.com/in/wew55). 
 
